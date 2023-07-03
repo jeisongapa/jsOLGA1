@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "pactos.html",
+    "currentPage": "limpias.html",
     "theme": {
       "name": "workflowm5",
       "title": "WorkflowM5",
@@ -1344,7 +1344,7 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_cid": "tHZ1iXndRF",
-          "_anchor": "header03-q",
+          "_anchor": "tranforma",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1415,7 +1415,7 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_cid": "tHZ1iXzEmg",
-          "_anchor": "header03-r",
+          "_anchor": "limpia",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
