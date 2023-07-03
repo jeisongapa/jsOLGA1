@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "pactos.html",
     "theme": {
       "name": "workflowm5",
       "title": "WorkflowM5",
@@ -811,7 +811,7 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_cid": "tHYYckp3rj",
-          "_anchor": "header03-k",
+          "_anchor": "pactos",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -882,7 +882,7 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_cid": "tHYYckBlve",
-          "_anchor": "header03-l",
+          "_anchor": "dinero",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -954,7 +954,7 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_cid": "tHYYckP0zY",
-          "_anchor": "header03-m",
+          "_anchor": "fama",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
